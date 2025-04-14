@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "name": "Adarsh Sharma",
+      "content": "Experienced Python developer with 3 years in data science and NLP. Skilled in PyTorch, Scikit-learn, and REST APIs."
+    },
+    {
+      "id": "2",
+      "name": "Rohit Kumar",
+      "content": "Frontend engineer specializing in React and UI/UX design. 2 years of experience building modern web applications with JavaScript, HTML, and CSS."
+    },
+    {
+      "id": "3",
+      "name": "Sneha Patel",
+      "content": "HR analyst with 4 years of experience in recruitment, resume screening, and employee engagement programs."
+    },
+    {
+      "id": "4",
+      "name": "Amit Verma",
+      "content": "Full stack developer with 5 years of experience in Node.js, React, MongoDB, and RESTful API development."
+    },
+    {
+      "id": "5",
+      "name": "Priya Desai",
+      "content": "Digital marketer with 3 years of experience in SEO, content strategy, and social media marketing for SaaS brands."
+    },
+    {
+      "id": "6",
+      "name": "Karan Mehta",
+      "content": "DevOps engineer with strong knowledge of Docker, Kubernetes, Jenkins, AWS, and CI/CD pipelines."
+    },
+    {
+      "id": "7",
+      "name": "Neha Jain",
+      "content": "Data analyst with expertise in SQL, Excel, Power BI, and Tableau. Worked on market analysis and financial forecasting."
+    },
+    {
+      "id": "8",
+      "name": "Siddharth Iyer",
+      "content": "Java backend developer with 4 years of experience in Spring Boot, Hibernate, and microservices architecture."
+    },
+    {
+      "id": "9",
+      "name": "Riya Kapoor",
+      "content": "Machine learning engineer with focus on computer vision and deep learning using TensorFlow and OpenCV."
+    },
+    {
+      "id": "10",
+      "name": "Aditya Joshi",
+      "content": "Technical recruiter with experience in IT hiring, screening technical resumes, and coordinating with hiring managers."
+    }
+  ]
